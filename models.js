@@ -5,7 +5,7 @@ const uuid = require('uuid');
 // so for now we're using in-memory storage. This means each time
 // the app stops, our storage gets erased.
 
-// don't worry to much about how `ShoppingList` and `Recipes`
+// don't worry too much about how `ShoppingList` and `Recipes`
 // are implemented. Our concern in this example is with how
 // the API layer is implemented, and getting it to use an
 // existing model.
